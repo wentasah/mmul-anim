@@ -8,3 +8,9 @@ animations are available on
 One frame from the animation is shown below.
 
 ![Example](/mmul-example.png)
+
+To generate the animations, simply run `make`.
+
+Dependencies:
+- python3-cairo
+- ffmpeg
